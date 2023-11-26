@@ -2,6 +2,12 @@
 Code samples to tests with K6
 
 
+## How can I install K6?
+
+## Debian/Ubuntu
+[Official documentation](https://k6.io/docs/getting-started/installation#debian-ubuntu)
+
+
 ## Additional tools
 
 ### k6 browser records
